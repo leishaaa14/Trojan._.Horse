@@ -1,0 +1,141 @@
+* {
+    box-sizing: border-box;
+  }
+body {
+    font-size: 14px;
+    overflow:hidden;
+}
+.bg {
+    width: 100%;
+    height:100vh;
+    background: url("../images/purple.png");
+    background-repeat: no-repeat;
+    opacity: 1;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    overflow: hidden;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    /* Adjust positioning for smaller screens */
+    .main {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+
+.heading {
+    width: 75%;
+    height: 10%;
+    /* background: url("../images/v68_7.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    color: rgba(255,255,255,1);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Poppins;
+    font-weight: ExtraBold;
+    font-size: 400%;
+    top: 8vh;
+   
+    left: 21.5%;
+    /* right: 25%; */
+    overflow: hidden;
+}
+
+.mainbox {
+  width: 64%;
+  height:80%;
+  background: url("../images/peach.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 12%;
+  left: 18%;
+  overflow: hidden;
+}
+
+.btn{
+  width: 33%;
+  height: 18%;
+  background: url("../images/peach.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  
+  overflow: hidden;
+}
+
+.btnfont{
+  width: 23%;
+  color: rgba(0,0,0,1);
+  position: relative;
+  top: 31%;
+  left: 16%;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 175%;
+  opacity: 1;
+  text-align: center;
+  text-decoration-line: none;
+}
+
+#withdraw {
+  top: 23%;
+  left: 60%;
+}
+
+#transfer {
+  top: 31%;
+  left: 60%;
+}
+
+#balance {
+  top: 39%;
+  left: 60%;
+}
+
+.transacthead {
+  width: 50%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 4vh;
+  left: 27.5%;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 225%;
+  opacity: 1;
+  text-align: center;
+}
+
+.gif {
+  width: 47%;
+  height: 70%;
+  background: url("../images/gifb.gif");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  overflow: hidden;
+}
