@@ -47,7 +47,7 @@ user can easily understand and work with.</li>
    <ol>
    <li>Added a feature of OTP validation to make
 transactions much more secure.</li>
-<li>> We have implemented a denomination feature in
+<li> We have implemented a denomination feature in
 our banking system to specify exact cash
 amounts needed. This ensures precise
 combinations of notes for transactions, enhancing
