@@ -2,9 +2,9 @@
 <b>Objective</b><br>
 The need for secure and convenient cardless cash withdrawal at ATMs, leveraging mobile phones and OTP authentication, to reduce frauds arising due to security risks associated with physical ATM cards.
 
-We have completed deploying the UI in vercel and still working on the integration of backend and frontend.
-The link of deployment in Vercel is https://trojan-horse-one.vercel.app/
-<br>
+<b>We have completed deploying the UI in vercel and still working on the integration of backend and frontend.
+The link of deployment in Vercel is</b> https://trojan-horse-5b4z.vercel.app/
+<br><br>
 <b>Description</b><br>
 In light of the significant shift towards cashless payments
 facilitated by various mobile payment applications such as Paytm
@@ -60,4 +60,5 @@ connectivity.</li>
      </ol><br>
      
      
-![WhatsApp Image 2024-04-14 at 12 18 48_92974d73](https://github.com/Priiiiyanshi/Trojan._.Horse/assets/158585191/8cc8294b-bb35-45b1-a7ca-933a9cbf9b28)
+![WhatsApp Image 2024-04-14 at 5 51 31 PM](https://github.com/leishaaa14/Trojan._.Horse/assets/158585383/1a8786fd-b347-4d98-bad4-ff4fee0027a0)
+
