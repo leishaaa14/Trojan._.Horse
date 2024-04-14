@@ -2,8 +2,8 @@
 <b>Objective</b><br>
 The need for secure and convenient cardless cash withdrawal at ATMs, leveraging mobile phones and OTP authentication, to reduce frauds arising due to security risks associated with physical ATM cards.
 
-We have completed deploying the UI in vercel and still working on the integration of backend and frontend.
-The link of deployment in Vercel is https://trojan-horse-one.vercel.app/
+<b>We have completed deploying the UI in vercel and still working on the integration of backend and frontend.
+The link of deployment in Vercel is</b> 
 <br>
 <b>Description</b><br>
 In light of the significant shift towards cashless payments
