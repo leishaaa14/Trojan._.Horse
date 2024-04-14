@@ -41,6 +41,7 @@ of the internet.</li>
 user friendly and interactive interface which the
 user can easily understand and work with.</li>
   </ol>
+  
   <br>
    <b>Show Stoppers/Dependencies</b><br> 
    <ol>
@@ -57,3 +58,6 @@ One-Time Passwords (OTPs) to users, thereby
 eliminating the dependency on internet
 connectivity.</li>
      </ol><br>
+     
+     
+![WhatsApp Image 2024-04-14 at 12 18 48_92974d73](https://github.com/Priiiiyanshi/Trojan._.Horse/assets/158585191/8cc8294b-bb35-45b1-a7ca-933a9cbf9b28)
